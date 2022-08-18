@@ -30,6 +30,9 @@ gem "jbuilder"
 # Gem tz-info
 gem 'tzinfo-data'
 
+# Gem ERB formatter
+gem 'erb-formatter'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
